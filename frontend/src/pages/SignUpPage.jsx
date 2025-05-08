@@ -34,6 +34,8 @@ const SignUpPage = () => {
     if (success === true) signup(formData);
   };
 
+
+
   return (
     <div className="min-h-screen grid lg:grid-cols-2">
       {/* left side */}
