@@ -1,6 +1,6 @@
 # ✨ Full Stack Realtime Chat App ✨
 
-img width="1848" height="914" alt="Image" src="https://github.com/user-attachments/assets/14411140-05a0-43e0-a2e7-2d7ba0e1cf05" />
+<img width="1848" height="914" alt="Image" src="https://github.com/user-attachments/assets/14411140-05a0-43e0-a2e7-2d7ba0e1cf05" />
 
 Highlights:
 
